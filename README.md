@@ -1,9 +1,26 @@
-# Delta-X-Software
+# DeltaXSoftware
 
-Delta X Robot Kit is an open source delta robot created by IMWI Technology, a Vietnamese startup company.
 
-Website: https://www.deltaxrobot.com/
 
-Community: https://www.facebook.com/groups/DeltaXCommunity/
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+
+
+## Usage
+
+
+
+## Contributing
+
+
+
+## License
 
 
